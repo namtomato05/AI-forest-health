@@ -1,0 +1,4 @@
+data/patches/  
+models/*.pth  
+models/*.npz  
+.ipynb_checkpoints/ 
